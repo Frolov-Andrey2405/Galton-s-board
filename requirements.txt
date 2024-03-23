@@ -1,0 +1,15 @@
+# Linting and code formatting
+autopep8
+black
+isort
+pep8-naming
+mypy
+pycodestyle
+
+# Flake8
+autoflake
+flake8
+
+# Main requirements
+pygame
+pymunk
